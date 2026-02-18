@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-21T01:29:22 IST" name="Suite" finished-at="2025-08-21T01:29:51 IST" duration-ms="29127">
+  <suite started-at="2026-02-17T13:54:14 IST" name="Suite" finished-at="2026-02-17T13:54:59 IST" duration-ms="44686">
     <groups>
     </groups>
-    <test started-at="2025-08-21T01:29:22 IST" name="Test" finished-at="2025-08-21T01:29:51 IST" duration-ms="29127">
+    <test started-at="2026-02-17T13:54:14 IST" name="Test" finished-at="2026-02-17T13:54:59 IST" duration-ms="44686">
       <class name="testcases.TC_5656REGISTRATIONTEST">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@1623134f]" started-at="2025-08-21T01:29:22 IST" name="setup" finished-at="2025-08-21T01:29:38 IST" duration-ms="15694" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@11eadcba]" started-at="2026-02-17T13:54:14 IST" name="setup" finished-at="2026-02-17T13:54:42 IST" duration-ms="27545" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="accountregtest()[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@1623134f]" started-at="2025-08-21T01:29:38 IST" name="accountregtest" finished-at="2025-08-21T01:29:49 IST" duration-ms="10873" status="PASS">
+        <test-method signature="accountregtest()[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@11eadcba]" started-at="2026-02-17T13:54:42 IST" name="accountregtest" finished-at="2026-02-17T13:54:55 IST" duration-ms="12800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountregtest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@1623134f]" started-at="2025-08-21T01:29:49 IST" name="teardown" finished-at="2025-08-21T01:29:51 IST" duration-ms="2364" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TC_5656REGISTRATIONTEST@11eadcba]" started-at="2026-02-17T13:54:55 IST" name="teardown" finished-at="2026-02-17T13:54:59 IST" duration-ms="3889" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
